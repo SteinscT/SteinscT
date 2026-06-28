@@ -58,7 +58,7 @@ Click below.
 
 ➡ **Watch**
 
-https://your-github-pages-url/anime.html
+[![Episode](assets/fa_high.jpg)](anime.html)
 
 ---
 
