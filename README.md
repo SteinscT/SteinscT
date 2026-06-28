@@ -68,7 +68,7 @@ Click the image above to watch.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?SteinscT&show_icons=true&theme=transparent"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=transparent"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?SteinscT&theme=transparent"/>
 
 </p>
 
