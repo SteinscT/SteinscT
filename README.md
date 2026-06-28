@@ -74,19 +74,6 @@ Click the image above to watch.
 
 ---
 
-## 🧙 Magic Library
-
-✨ Quantum Computing
-
-✨ Optical Fiber Sensor
-
-✨ Numerical Simulation
-
-✨ Physics Notes
-
-✨ Anime Projects
-
----
 
 ## 🌌 Quote
 
