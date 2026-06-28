@@ -46,7 +46,7 @@
 
 ## 🌸 Anime Collection
 
-<a href="anime.html">
+<a href="https://steinsct.github.io/SteinscT/anime.html">
 <img src="assets/fa_high.png" width="700">
 </a>
 
