@@ -66,9 +66,9 @@ Click the image above to watch.
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?SteinscT&show_icons=true&theme=transparent"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SteinscT&show_icons=true&theme=transparent"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?SteinscT&theme=transparent"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SteinscT&theme=transparent"/>
 
 </p>
 
