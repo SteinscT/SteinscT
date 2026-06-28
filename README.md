@@ -4,7 +4,7 @@
 
 *"The road is long, but every commit is another memory."*
 
-<img src="assets/fa_high.png" width="700">
+<img src="assets/9a963bc62af838b34db21094a99a560a.jpg" width="700">
 
 ---
 
