@@ -50,7 +50,7 @@
 
 ## 🌸 Anime Collection
 
-<img src="assets/fa_high.jpg" width="700">
+<img src="assets/fa_high.png" width="700">
 
 ### ▶ Episode 1
 
@@ -58,7 +58,7 @@ Click below.
 
 ➡ **Watch**
 
-[![Episode](assets/fa_high.jpg)](anime.html)
+[![Episode](assets/fa_high.png)](anime.html)
 
 ---
 
