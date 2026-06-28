@@ -50,7 +50,7 @@
 
 ## 🌸 Anime Collection
 
-<img src="assets/fa.jpg" width="700">
+<img src="assets/fa_high.jpg" width="700">
 
 ### ▶ Episode 1
 
