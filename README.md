@@ -40,42 +40,17 @@
 
 ⚔ Quantum Computing
 
-📖 Optical Fiber Sensors
-
 🌌 Computational Physics
 
 🎮 Open Source
 
 ---
 
-## 📜 Skill Tree
 
-```text
-Physics
-├── Quantum Computing
-├── Optical Fiber
-├── Numerical Simulation
-└── Data Analysis
-
-Programming
-├── Python
-├── C++
-├── MATLAB
-├── LabVIEW
-└── Linux
-
-Tools
-├── Git
-├── GitHub
-├── VSCode
-└── LaTeX
-```
-
----
 
 ## 🌸 Anime Collection
 
-<img src="assets/frieren-cover.jpg" width="700">
+<img src="assets/fa.jpg" width="700">
 
 ### ▶ Episode 1
 
