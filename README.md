@@ -1,36 +1,34 @@
 <div align="center">
 
-<img src="assets/title.gif" width="100%"/>
-
 # ⚔ Journey Beyond Code
 
 *"The road is long, but every commit is another memory."*
 
-<img src="assets/frieren.gif" width="700">
+<img src="assets/fa_high.png" width="700">
 
 ---
 
 ## 🌿 Adventurer
 
-> Physics Undergraduate  
-> Quantum Computing Explorer  
-> Optical Fiber Sensor Researcher  
-> RPG Lover  
+> Physics Undergraduate
+> Quantum Computing Explorer
+> Optical Fiber Sensor Researcher
+> RPG Lover
 > Anime Enthusiast
 
 ---
 
 ## ⚔ Character Status
 
-| Attribute | Value |
-|------------|------|
-| Level | 20 |
-| Class | Mage |
-| HP | ████████████ |
-| MP | █████████████████ |
-| Coding | ██████████ |
-| Physics | ███████████ |
-| Curiosity | ∞ |
+| Attribute | Value             |
+| --------- | ----------------- |
+| Level     | 20                |
+| Class     | Mage              |
+| HP        | ████████████      |
+| MP        | █████████████████ |
+| Coding    | ██████████        |
+| Physics   | ███████████       |
+| Curiosity | ∞                 |
 
 ---
 
@@ -46,37 +44,31 @@
 
 ---
 
-
-
 ## 🌸 Anime Collection
 
+<a href="anime.html">
 <img src="assets/fa_high.png" width="700">
+</a>
 
 ### ▶ Episode 1
 
-Click below.
-
-➡ **Watch**
-
-[![Episode](assets/fa_high.png)](anime.html)
+Click the image above to watch.
 
 ---
 
 ## 🎵 BGM
 
-Now Playing
-
 > Evan Call - Frieren Main Theme
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=transparent"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=transparent"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURNAME&theme=transparent"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=transparent"/>
 
 </p>
 
@@ -99,9 +91,5 @@ Now Playing
 ## 🌌 Quote
 
 > "The journey itself becomes the treasure."
-
----
-
-<img src="assets/footer.gif" width="100%">
 
 </div>
